@@ -228,9 +228,6 @@
       display: flex;
       justify-content: space-between;
     }
-    .nav ul {
-      margin-left: -0px;
-    }
   
     .nav img {
       padding : 20px
